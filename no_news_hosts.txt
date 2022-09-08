@@ -1,7 +1,7 @@
-tvn24.pl
-pap.pl
-tvp.info
-interia.pl
+*tvn24.pl
+*pap.pl
+*tvp.info
+*interia.pl
 *onet.pl
 *wp.pl
 *dziennik.pl
@@ -9,7 +9,23 @@ interia.pl
 *fakt.pl
 *rmf24.pl
 *polsatnews.pl
+*dziennik.pl
+*wprost.pl
+*msn.com
+*wyborcza.pl
+*gazetaprawna.pl
+*radiozet.pl
+*rp.pl
+*dorzeczy.pl
+*temi.pl
+*naszemiasto.pl
+*wpolityce.pl
+*niezalezna.pl
+*gazetakrakowska.pl
+*gp24.pl
+*newsweek.pl
+
 
 #angielskie
-nypost.com
-*.cnn.com
+*nypost.com
+*cnn.com
