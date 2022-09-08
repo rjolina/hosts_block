@@ -1,5 +1,14 @@
 tvn24.pl
-
+pap.pl
+tvp.info
+interia.pl
+*onet.pl
+*wp.pl
+*dziennik.pl
+*se.pl
+*fakt.pl
+*rmf24.pl
+*polsatnews.pl
 
 #angielskie
 nypost.com
