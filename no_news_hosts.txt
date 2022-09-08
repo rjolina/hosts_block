@@ -1,1 +1,6 @@
 tvn24.pl
+
+
+#angielskie
+nypost.com
+*.cnn.com
