@@ -1,4 +1,5 @@
 0.0.0.0 euractiv.pl
+0.0.0.0 www.euractiv.pl
 0.0.0.0 i.pl
 0.0.0.0 tvn24.pl
 0.0.0.0 pap.pl
@@ -32,9 +33,12 @@
 0.0.0.0 wykop.pl
 0.0.0.0 youtube.com
 0.0.0.0 rdn.pl
+0.0.0.0 www.rdn.pl
 0.0.0.0 prawo.pl
-0.0.0.0 businessinsider
+0.0.0.0 www.businessinsider.pl
+0.0.0.0 businessinsider.pl
 0.0.0.0 radiowroclaw.pl
+0.0.0.0 www.radiowroclaw.pl
 0.0.0.0 invidious.io.lol
 0.0.0.0 youtube.com
 0.0.0.0 diecezja.tarnow.pl
