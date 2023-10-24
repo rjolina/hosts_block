@@ -38,3 +38,4 @@
 0.0.0.0 invidious.io.lol
 0.0.0.0 youtube.com
 0.0.0.0 diecezja.tarnow.pl
+0.0.0.0 www.diecezja.tarnow.pl
